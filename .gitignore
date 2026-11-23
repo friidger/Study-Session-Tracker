@@ -1,0 +1,4 @@
+.idea/
+sessions.json
+.venv/
+__pycache__/
